@@ -4,6 +4,10 @@ This repository contains the design files and documentation for the "How does so
 
 ![Fancy-Drawing](img/rendered_gradient.jpg)
 
+## Publication
+
+[![DOI](https://zenodo.org/badge/713590579.svg)](https://doi.org/10.5281/zenodo.17052716)
+
 ## Online Viewer
 
 You can view the design files in your browser using the online viewer.
